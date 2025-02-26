@@ -1,4 +1,4 @@
-name: FE build Admin console
+name: FE build Admin  console
 
 on:
     push:
