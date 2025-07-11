@@ -327,6 +327,7 @@
     "tenants.typeOfLanguage.radio.description": "Sollen die Nutzer eine formelle oder informelle Ansprache vom System bekommen?",
     "tenants.typeOfLanguage.radio.formal": "formelle",
     "tenants.typeOfLanguage.radio.informal": "informelle",
+    "tenants.typeOfLanguage.updateSuccess": "Ihre Änderungen wurden gespeichert. Sie werden spätestens in 24 Stunden im System sichtbar.",
     "users.title": "Nutzer",
     "agencyAdmins.title": "Agentur Admins",
     "agencyAdmins.title.text": "{{userCount}} Agentur Admins",
