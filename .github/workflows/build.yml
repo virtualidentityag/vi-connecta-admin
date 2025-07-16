@@ -6,7 +6,6 @@ on:
             - '**'
         tags-ignore:
             - 'dockerImage.v.*'
-
 jobs:
     build:
         name: Build & Release
