@@ -12,7 +12,6 @@ on:
             - 'v*'
     workflow_dispatch:
 
-
 jobs:
     build:
         name: Build
