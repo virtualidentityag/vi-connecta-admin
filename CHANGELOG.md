@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.4](https://github.com/virtualidentityag/vi-connecta-admin/compare/v0.2.3...v0.2.4) (2025-07-30)
+
+
+### Features
+
+* **2FA-Reset:** adding 2FA reset for consultants ([d6c29a3](https://github.com/virtualidentityag/vi-connecta-admin/commit/d6c29a3b2453018ff3e58a0d4cbd8914c68ee20e))
+* **CONNECTA-469:** add success message for formal language change ([b593522](https://github.com/virtualidentityag/vi-connecta-admin/commit/b5935221a94a6d6a1efbae82a2579f35e893a6b9))
+* **CONNECTA-478:** easier zip code input ([0258bdc](https://github.com/virtualidentityag/vi-connecta-admin/commit/0258bdc0bb1838c85210261204b84b0a886ff090))
+
+
+### Bug Fixes
+
+* **useAgencyPostCodesData:** fix linting error ([6ec8bb9](https://github.com/virtualidentityag/vi-connecta-admin/commit/6ec8bb9878de5ba4ef35154191b51f03bc5a0df1))
+
 ### [0.2.3](https://github.com/virtualidentityag/vi-saas-admin/compare/v0.2.2...v0.2.3) (2024-08-06)
 
 
