@@ -6,7 +6,6 @@ on:
             - '**'
         tags-ignore:
             - 'dockerImage.v.*'
-
 jobs:
     build:
         name: Build & Release
@@ -54,7 +53,7 @@ jobs:
                   branch: ${{env.BRANCH}}
                   force: true
                   tags: true
-            - uses: actions/upload-artifact@v2
+            - uses: actions/upload-artifact@v4
               if: failure()
               with:
                   name: cypress-videos
